@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form onsubmit="foo()">
+        <label for="Firstname">Firstname</label><br>
+        <input type="text" name="Firstname" id="Firstname" placeholder="enter your Firstname"><br>
+        <label for="Middlename">Middlename</label><br>
+        <input type="text" name="Middlename" id="Middlename" placeholder="enter your Middlename"><br>
+        <label for="Lastname">Lastname</label><br>
+        <input type="text" name="Lastname" id="Lastname" placeholder="enter your Lastname"><br>
+        <label for="Email">Email</label><br>
+        <input type="email" name="email" id="Email" required placeholder="enter your email"><br>
+        <label for="file">Upload an image file</label>
+        <input type="file" name="file" id="file" placeholder="upload your file"><br>
+        <input type="submit" value="submit"><br>
+    </form>
+    <script>
+        function foo() {
+            alert("Hello");
+        }
+    </script>
+</body>
+
+</html>

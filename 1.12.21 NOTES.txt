@@ -1,0 +1,13 @@
+1.HTML:opening and closing tag
+2.exceptions:
+             self closoing tags
+
+3.UTF-Universal Text Format-8 
+4.Terminologies:
+5.Element:combination of tag+content
+6.Heading Tag: h1-h6
+7. a tag : it will act as hyperlink to redirect the webpage
+8.Attribute: additional info about tag
+9.href-website address
+10.target_blank:it will help to display webpage in another tab
+8.a tag syntax:

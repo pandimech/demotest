@@ -1,0 +1,30 @@
+02/12/21
+1.div
+2.section
+HTML 5
+3.article:collection of information
+HTML5
+<article></article>
+Inline vs block level elements
+block level:always state in new line
+ex:p,h1-h6..div,section...
+Inline: always start on same line
+ex: span
+4.HTML Forms
+
+labels :
+forf attribute of label must be same as id of input type
+reason: to bind together tightly
+name: temporaily store info
+
+
+form methods:
+
+GET:Browser default http method
+
+form default method is GET
+POST: Sensitive info password
+5.Different types of input elements
+6.required attribute mandatory information:
+
+7.Webkata practice

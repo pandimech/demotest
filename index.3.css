@@ -1,0 +1,25 @@
+.main {
+    background-color: green;
+    font-size: large;
+    color: yellow;
+}
+
+.main1 {
+    background-color: rgb(0, 81, 255);
+}
+
+#main {
+    background-color: blue;
+}
+
+.main2 {
+    background-color: brown
+}
+
+.main3 {
+    background-color: chocolate;
+}
+
+div {
+    background-color: red;
+}

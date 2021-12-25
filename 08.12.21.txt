@@ -1,0 +1,50 @@
+RWD
+Media Queries
+Drop Down box
+Intro To Bootstrap
+
+RWD:responsive web design 
+Media Queries:
+
+
+Bootstrap can be included in 2 ways
+1.CDN:Content delevier network
+2.installing through file
+
+
+Bootstrap Layouts:
+containers?
+
+Grids?
+
+responsive brakpoints:
+XS: extra small
+sm:small
+md:medium
+lg:large
+xl:extra large
+
+Bootstrap flow of elements:
+1.container
+a.row
+b.column
+
+1.for a container we can have any no of rows
+2.within rows we can have only 12 columns
+3.but we can use less than 12 also,
+4.also we can use beyond 12
+
+
+1/12*100=>8.333333%
+2/12*100=>16.666667%
+3/12*100=>25%
+4/12*100=>33.333333%
+5/12*100=>41.666667%
+6/12*100=>50%
+7/12*100=>58.333333%
+8/12*100=>66.666667%
+9/12*100=>75%
+10/12*100=>83.333333%
+11/12*100=>91.666667%
+12/12*100=>100%
+

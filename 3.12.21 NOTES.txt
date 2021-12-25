@@ -1,0 +1,74 @@
+1.CSS:Cascaded style sheet
+
+2.Types of CSS:
+inline
+internal
+external
+Ex:using style attribute
+<div style="background-color:green;color:wheat;">this is div</div>
+ 
+inline
+property:value
+ex:background-color:green
+within the body
+
+internal CSS:
+HTML-CSS
+on a same document
+
+3.Selectors
+
+4.class,id,tag...
+
+class selector:can be applicable more than one element
+SYNTAX:.Classname{
+}
+
+id selectors:
+SYNTAX:#idname{
+}
+ex:
+id selector can be applicable to only one element
+
+5.priority of execution
+6.Box Model
+
+1.For a single element can we apply 2 classes?
+colors:
+textual
+
+RGB:rgb(0-255,0-255);
+
+DOM:
+document.getElementById("idname");
+1 element
+
+inline css> priority
+inline>id>class>tag
+
+
+Tag selector:
+tagname{
+}
+
+
+
+external CSS:
+rel: relationship
+href:
+
+
+Box Model: it will be wrapped around every html element
+
+margin,border,padding,content
+
+margin: an imaginary line around an HTML element
+The flow of Values:
+top,right,bottom,left
+values:px
+
+Border:
+Visible line
+
+padding: space arround the content
+short 
